@@ -1,0 +1,12 @@
+{
+  "name": "graphql-nodejs",
+  "version": "1.0.0",
+  "description": "Movie Api with graphql",
+  "main": "index.js",
+  "repository": "https://github.com/h662/graphql-nodejs.git",
+  "author": "h662 <godh662@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3"
+  }
+}
